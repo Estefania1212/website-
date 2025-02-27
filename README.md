@@ -8,3 +8,9 @@ then we do git checkout the name of the repository we have created after git fet
 
 code .  sirve para iniciar en otra folder. 
 git branch to cinfirm i am in the correct branch
+
+to add any new file into our repository on GITHUB we say git add . 
+
+put git commit -m "Adding a Home Page" this is the message we want to reflect. 
+
+and after Git push 
