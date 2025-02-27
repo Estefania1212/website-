@@ -7,3 +7,4 @@ we create a repository on github with the name of website we clone it. and then 
 then we do git checkout the name of the repository we have created after git fetch origin. 
 
 code .  sirve para iniciar en otra folder. 
+git branch to cinfirm i am in the correct branch
