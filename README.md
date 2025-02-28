@@ -14,3 +14,5 @@ to add any new file into our repository on GITHUB we say git add .
 put git commit -m "Adding a Home Page" this is the message we want to reflect. 
 
 and after Git push 
+
+FOR BOOTSTRAP WE WANT TO GET THE CDN link to paste it on vs code html 
