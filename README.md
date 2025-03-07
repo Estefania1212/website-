@@ -16,3 +16,7 @@ put git commit -m "Adding a Home Page" this is the message we want to reflect.
 and after Git push 
 
 FOR BOOTSTRAP WE WANT TO GET THE CDN link to paste it on vs code html 
+
+
+
+h1 and h4 if we do h1> ....h1< 
