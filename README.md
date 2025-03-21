@@ -4,11 +4,12 @@
 we should create the issue and assign it to ourselves though can assign it to another person. and we have to create a brach for the issue. 
 we create a hobbysite folder on our desktop. We do mkdir hobbysite
 we create a repository on github with the name of website we clone it. and then we go inside website repository with cd website and then we say git fetch origin 
-then we do git checkout the name of the repository we have created after git fetch origin. 
+then we do git checkout the name of the repository we have created after git fetch origin. After we fetch we can do the git add .    git commit -m "write a message here"  , and git push
 
 code .  sirve para iniciar en otra folder. 
 git branch to cinfirm i am in the correct branch
 
+TO ADD ANY FILE ON OUR VISUAL CODE FOR OUR GITHUB 
 to add any new file into our repository on GITHUB we say git add . 
 
 put git commit -m "Adding a Home Page" this is the message we want to reflect. 
