@@ -1,0 +1,66 @@
+.subheadingContainer {
+    background-color: rgb(0, 247, 255);
+    padding: 10px;
+    box-shadow: 2px 3px 2px 1px rgb(0, 0, 34, 0.3) inset;
+    font-weight: 500;
+    display:flex;
+    gap: 30px;
+    align-items: center;
+
+
+
+}
+
+.subheadingContainer p {
+    background-color: rgb(0, 247, 255);
+
+}
+
+.d-flex justify-content-center flex-wrap gap-3 {
+    background-color: aqua;
+    justify-content: space-between;
+    display: flex;
+    padding: 10px;
+
+
+
+}
+
+
+.card img {
+    width: 100%; /* Makes sure the image takes the full width of the card */
+    height: 200px; /* Set a fixed height for consistency */
+    object-fit: cover; /* Ensures the image fills the space without distortion */
+}
+
+.navbar-toggler {
+
+background-color: bisque;
+
+
+
+}
+
+.navbar-brand {
+
+color: rgb(105, 105, 105);
+
+}
+
+.footerContainer {
+
+background-color: floralwhite;
+color: #222;
+gap: 20px;
+flex-wrap: wrap;
+justify-content: space-around;
+
+}
+
+.bg-body-tertiary {
+background-color: #222;
+
+
+
+
+}
