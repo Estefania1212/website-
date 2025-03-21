@@ -17,7 +17,8 @@ and after Git push
 
 FOR BOOTSTRAP WE WANT TO GET THE CDN link to paste it on vs code html 
 
-
+IF WE HAVE ISSUES WITH GIT ONCE WE CREATE OUR REPOSITORY ON GIT WE NEED TO COPY AND PASTE THE INFOR TO CREATE OR ADD A REPOSITORY INSIDE OUR vs CODE ENVIRONMENT BUT IF FIRST ASK US TO FETCH WE NEED TO FETCH: 
+We need to type git fetch origin 
 
 h1 and h4 if we do h1> ....h1< 
 h1 is the biggest and h6 is the smallest 
